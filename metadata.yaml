@@ -1,0 +1,35 @@
+_repo: Picturesque-World-s-Fair-Vol.-I-No.-1-Feb.-10-1894An-Elaborate-Collection-of-Colored-Views-.-__39639
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39639-h/images/cover-t.jpg
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_issued: '2012-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39639'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World''s Columbian Exposition (1893 : Chicago, Ill.) -- Buildings'
+- !lcc 'T'
+- !lcsh 'World''s Columbian Exposition (1893 : Chicago, Ill.) -- Pictorial works'
+- !lcsh 'Chicago (Ill.) -- Exhibitions -- Pictorial works'
+- !lcsh 'Exhibitions -- Illinois -- Chicago -- Pictorial works'
+title: 'Picturesque World''s Fair, Vol. I, No. 1, Feb. 10, 1894
+
+  An Elaborate Collection of Colored Views . . . Comprising Illustrations of the Greatest
+  Features of the World''s Columbian Exposition and Midway Plaisance: Architectural,
+  Artistic, Historical, Scenic and Ethnological'
+url: http://www.gutenberg.org/ebooks/39639
